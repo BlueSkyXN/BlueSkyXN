@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img src="https://img-blog.csdnimg.cn/20200822014538211.png" href="https://github.com/BlueSkyXN" width=200 height=100 />
+<img src="https://p.pstatp.com/origin/pgc-image/0907eb516dc3408292936d8699e13a71" href="https://github.com/BlueSkyXN" width=200 height=100 />
 
 # About My Websites
 个人主页 https://000714.xyz
