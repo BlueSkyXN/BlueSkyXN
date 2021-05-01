@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img src="https://ae01.alicdn.com/kf/U86be0ebc85004924a57b3f81c8091f51Y.jpg" href="https://github.com/BlueSkyXN" width=100 height=100 />
+<a href="https://github.com/BlueSkyXN"><img src="https://ae01.alicdn.com/kf/U86be0ebc85004924a57b3f81c8091f51Y.jpg" width=100 height=100 /></a>
 
 # About My Websites
 个人主页 https://000714.xyz
