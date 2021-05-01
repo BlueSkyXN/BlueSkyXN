@@ -7,3 +7,6 @@
 <a href="https://www.blueskyxn.com">Blog</a> |
 <a href="https://img.blueskyxn.com">公共图床</a> |
 <a href="https://status.blueskyxn.com">探针</a> |
+<a href="https://www.blueskyxn.com/202102/4142.html">网盘</a> |
+<a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
+<a href="https://t.me/blueskyxnblog">TG频道</a>
