@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[![logo.png](https://github.com/BlueSkyXN)](https://p.pstatp.com/origin/pgc-image/0907eb516dc3408292936d8699e13a71)
+[![logo.png](https://p.pstatp.com/origin/pgc-image/0907eb516dc3408292936d8699e13a71)](https://github.com/BlueSkyXN)
 
 # About My Websites
 个人主页 https://000714.xyz
