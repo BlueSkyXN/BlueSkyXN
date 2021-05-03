@@ -16,11 +16,8 @@
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
 
 ### MY WORK
-
 <details>
 <summary>HOT REPO</summary>
-
-
 <a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a>
 
 <a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a>
