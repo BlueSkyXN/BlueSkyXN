@@ -3,7 +3,10 @@
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&layout=compact" height=120 /></a>
 
-#### Phone：+1 (760) 991-0564
+#### Phone
++1 (760) 991-0564
+
+#### LINK
 <table><tr><td><a href="https://000714.xyz">个人主页</a> |
 <a href="https://www.blueskyxn.com">Blog</a> |
 <a href="https://img.blueskyxn.com">公共图床</a> |
