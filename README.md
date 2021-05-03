@@ -15,8 +15,9 @@
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
 
-### HOT REPO
+### WORK
 <details>
+<summary>HOT REPO</summary>
 <a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a>
 <a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a>
 <a href="https://github.com/BlueSkyXN/CFIP">CFIP</a>
