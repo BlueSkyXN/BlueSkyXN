@@ -3,7 +3,6 @@
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&layout=compact" height=120 /></a>
 
-#### 
 <details><summary>MY Phone</summary>
 +1 (760) 991-0564</details>
 
