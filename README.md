@@ -33,3 +33,17 @@
 <a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a> 服务器定时自动测速并推送结果的脚本
 
 </details>
+
+<details>
+<summary>Recommend REPO</summary>
+  
+<a href="https://github.com/BlueSkyXN/ChangeSource">ChangeSource</a> 为LInux系统一键更换软件源的一键脚本和其他替换源/备用镜像的常用脚本
+
+
+<a href="https://github.com/BlueSkyXN/ip-to-img">ip-to-img</a> 动态生成包含IP等信息的状态图
+
+<a href="https://github.com/BlueSkyXN/Cloudflare-Custom-Pages">Cloudflare-Custom-Pages</a> 美观的Cloudflare提示页
+
+<a href="https://github.com/BlueSkyXN/RandomIMGAPI">RandomIMGAPI</a> 极简的动态随机图API
+
+</details>
