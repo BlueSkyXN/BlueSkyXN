@@ -1,7 +1,7 @@
 ### Hi 👋
 <a href="https://github.com/BlueSkyXN"><img src="https://ae01.alicdn.com/kf/U86be0ebc85004924a57b3f81c8091f51Y.jpg" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&theme=react&show_icons=true&count_private=true" height=120 /></a>
-<a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&theme=react&layout=compact" height=120 /></a>
+<a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,B0C4DE,40E0D0,00CED1" height=120 /></a>
 
 <details><summary>MY Phone</summary>
 +1 (760) 991-0564</details>
