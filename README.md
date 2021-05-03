@@ -10,6 +10,7 @@
 <a href="https://status.blueskyxn.com">探针</a> |
 <a href="https://www.blueskyxn.com/202102/4142.html">网盘</a> |
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
-<a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
-
+<a href="https://t.me/blueskyxnblog">TG频道</a></td></tr> |
+Phone：+1 (760) 991-0564
+</table>
 
