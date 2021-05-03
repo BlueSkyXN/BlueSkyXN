@@ -46,4 +46,6 @@
 
 <a href="https://github.com/BlueSkyXN/RandomIMGAPI">RandomIMGAPI</a> 极简的动态随机图API
 
+<a href="https://github.com/BlueSkyXN/ScannerReport">ScannerReport</a> 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
+
 </details>
