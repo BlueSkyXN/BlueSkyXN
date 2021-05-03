@@ -19,17 +19,17 @@
 <details>
 <summary>HOT REPO</summary>
   
-<a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a>
+<a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a> AdguardHome百万规则项目
 
 
-<a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a>
+<a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a> 用于CentOS系统的多功能工具箱
 
-<a href="https://github.com/BlueSkyXN/CFIP">CFIP</a>
+<a href="https://github.com/BlueSkyXN/CFIP">CFIP</a> CloudFlare IP 测速
 
-<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a>
+<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a> KIENG开源图床前端面板
 
-<a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a>
+<a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a> 自动检测服务器故障并自动使用API修改并切换DNS解析
 
-<a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a>
+<a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a> 服务器定时自动测速并推送结果的脚本
 
 </details>
