@@ -15,3 +15,11 @@
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
 
+### HOT REPO
+
+<a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a>
+<a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a>
+<a href="https://github.com/BlueSkyXN/CFIP">CFIP</a>
+<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a>
+<a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a>
+<a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a>
