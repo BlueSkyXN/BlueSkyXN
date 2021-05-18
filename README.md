@@ -8,7 +8,7 @@
 <details><summary>PAY TO ME</summary>
 <a href="https://ae01.alicdn.com/kf/U34b81aef6f9d4deb8b864fcc45bad02aH.jpg"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
 <a href="https://ae01.alicdn.com/kf/U34b81aef6f9d4deb8b864fcc45bad02aH.jpg"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
-麻瓜宝@MugglePayBot SC4MLFMJ
+麻瓜宝 @MugglePayBot SC4MLFMJ
 </details>
 
 #### MY LINK
