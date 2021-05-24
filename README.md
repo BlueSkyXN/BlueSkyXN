@@ -21,11 +21,9 @@
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
 
 ### MY WORK
-<details>
-<summary>HOT REPO</summary>
+<details><summary>HOT REPO</summary>
   
 <a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a> AdguardHome百万规则项目
-
 
 <a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a> 用于CentOS系统的多功能工具箱
 
@@ -36,14 +34,14 @@
 <a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a> 自动检测服务器故障并自动使用API修改并切换DNS解析
 
 <a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a> 服务器定时自动测速并推送结果的脚本
+  
+<a href="https://github.com/BlueSkyXN/TencentCloud-Order">TencentCloud-Order</a> 腾讯云产品-自定义参数购买一键单页
 
 </details>
 
-<details>
-<summary>Recommend REPO</summary>
+<details><summary>Recommend REPO</summary>
   
 <a href="https://github.com/BlueSkyXN/ChangeSource">ChangeSource</a> 为LInux系统一键更换软件源的一键脚本和其他替换源/备用镜像的常用脚本
-
 
 <a href="https://github.com/BlueSkyXN/ip-to-img">ip-to-img</a> 动态生成包含IP等信息的状态图
 
@@ -52,5 +50,7 @@
 <a href="https://github.com/BlueSkyXN/RandomIMGAPI">RandomIMGAPI</a> 极简的动态随机图API
 
 <a href="https://github.com/BlueSkyXN/ScannerReport">ScannerReport</a> 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
+  
+<a href="https://github.com/BlueSkyXN/Logisim-FZU-CS">Logisim-FZU-CS</a>Logisim 系统综合实验
 
 </details>
