@@ -51,6 +51,21 @@
 
 <a href="https://github.com/BlueSkyXN/ScannerReport">ScannerReport</a> 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
   
-<a href="https://github.com/BlueSkyXN/Logisim-FZU-CS">Logisim-FZU-CS</a>Logisim 系统综合实验
+<a href="https://github.com/FZU-CS-BlueSkyXN/Logisim-FZU-CS">Logisim-FZU-CS</a>Logisim 系统综合实验
+  
+<a href="https://github.com/BlueSkyXN/Dual-Stack-WARP">Dual-Stack-WARP</a>基于 Docker容器 的WARP 双栈出网
+ 
+<a href="https://github.com/BlueSkyXN/Yum-Git">Yum-Git</a> CentOS（YUM系列） 一键脚本：自动编译安装/更新 GIT软件包
 
 </details>
+
+<details><summary>Other REPO</summary>
+ 
+<a href="https://github.com/BlueSkyXN/Route-trace">Route-trace</a> Linux 回程路由追踪检测智能一键脚本
+  
+<a href="https://github.com/BlueSkyXN/GitHub-FigureBed">Route-trace</a> 基于Github和Jsdelivr的自建图床
+  
+
+</details>
+
+
