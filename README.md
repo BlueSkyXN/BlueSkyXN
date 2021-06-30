@@ -10,7 +10,11 @@
 <a href="https://ae01.alicdn.com/kf/U34b81aef6f9d4deb8b864fcc45bad02aH.jpg"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 
 Skrill: bluesky@000714.xyz
-
+ 
+Cash APP(By Square): $BlueSkyXN
+<a href="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550"><img src="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550" height=40 /></a>
+  
+  
 麻瓜宝：SC4MLFMJ
 
 火币USDT-TRC20：TXW4muQBH7aTP45vNb7ByrbmJ8r6FF2TLX
