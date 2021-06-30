@@ -12,7 +12,7 @@
 Skrill: bluesky@000714.xyz
  
 Cash APP(By Square): $BlueSkyXN
-<a href="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550"><img src="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550" /></a>
+<a href="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550"><img src="https://p.pstatp.com/origin/pgc-image/e84284f2ed56491b954dab514d6e6550" width="200" /></a>
   
   
 麻瓜宝：SC4MLFMJ
