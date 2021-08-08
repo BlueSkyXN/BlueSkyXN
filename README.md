@@ -14,7 +14,7 @@
 <img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
  
  
-<a href="https://p.pstatp.com/origin/pgc-image/b0ea0cfd346348c3a6142bf0ae09c969">GooglePayBalance ：blueskyxn</a>
+<a href="https://p.pstatp.com/origin/pgc-image/b0ea0cfd346348c3a6142bf0ae09c969"><img src="https://p.pstatp.com/origin/pgc-image/680e957a9bac488c8fa65c41cd64eedf" height=40 />GooglePayBalance ：blueskyxn</a>
  
 <img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN
   
