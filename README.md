@@ -9,7 +9,7 @@
 <a href="https://shop.blueskyxn.com/buy/9"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
 <a href="https://shop.blueskyxn.com/buy/9"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 
-Skrill: bluesky@000714.xyz
+<a href="https://shop.blueskyxn.com/buy/9">Stripe CreditCard&DebitCard</a>
  
 <img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN
   
