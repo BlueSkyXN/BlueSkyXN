@@ -17,14 +17,9 @@
 <a href="https://p.pstatp.com/origin/pgc-image/b0ea0cfd346348c3a6142bf0ae09c969"><img src="https://p.pstatp.com/origin/pgc-image/680e957a9bac488c8fa65c41cd64eedf" height=40 />GooglePayBalance ：blueskyxn</a>
  
 <img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN
-  
-火币USDT-TRC20：TXW4muQBH7aTP45vNb7ByrbmJ8r6FF2TLX
-
-币安USDT-TRC20：THgokmSAh3h2WfhVP7WrQyHBMA12eCZbo9
-
-欧易USDT-TRC20：TTN68nZeaYcd7SCTPz7gxnjAqqmuuRPu4z
-
+ 
 XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
+ 
 </details>
 
 #### MY LINK
