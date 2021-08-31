@@ -9,7 +9,7 @@
 <a href="https://shop.blueskyxn.com/buy/9"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
 <a href="https://shop.blueskyxn.com/buy/9"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 
-<a href="https://buy.stripe.com/bIY4jH8790PNdFe147"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
+<a href="https://buy.stripe.com/3csaFG1NU1nv38k6oo"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
  
 <img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
  
