@@ -3,8 +3,12 @@
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 
-<details><summary>MY Phone</summary>
-+1 (760) 991-0564</details>
+<details><summary>MY Contact information</summary>
+SMS（TEXT only) : +1 (760) 991-0564
+Email: BlueSky@000714.xyz
+<a href="https://t.me/BlueSkyXN_PM_bot"><img src="https://p.pstatp.com/origin/pgc-image/9cae1156265f40b489d69855e32a32df" height=40 /></a>
+<a href="https://p.pstatp.com/origin/pgc-image/92ebda73c16248c39a193022889e9dac"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
+</details>
 <details><summary>PAY TO ME</summary>
 <a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
 <a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
