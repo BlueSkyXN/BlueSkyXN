@@ -5,7 +5,9 @@
 
 <details><summary>MY Contact information</summary>
 SMS（TEXT only) : +1 (760) 991-0564
+ 
 Email: BlueSky@000714.xyz
+ 
 <a href="https://t.me/BlueSkyXN_PM_bot"><img src="https://p.pstatp.com/origin/pgc-image/9cae1156265f40b489d69855e32a32df" height=40 /></a>
 <a href="https://p.pstatp.com/origin/pgc-image/92ebda73c16248c39a193022889e9dac"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 </details>
