@@ -12,14 +12,14 @@ Email: BlueSky@000714.xyz
 <a href="https://p.pstatp.com/origin/pgc-image/92ebda73c16248c39a193022889e9dac"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 </details>
 <details><summary>PAY TO ME</summary>
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
  
 
 <a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
-     Donate with Crypto by Coinpayments and Coinbase
+<img src="https://p.pstatp.com/origin/pgc-image/8af5556b37ed4deab157d70fd9739db7" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/670e45288dd24ac29b77b60509c0a09f" height=40 />Donate with Crypto by Coinpayments and Coinbase
 </a>
 
 <img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
