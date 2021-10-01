@@ -17,6 +17,11 @@ Email: BlueSky@000714.xyz
 
 <a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
  
+
+<a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
+     Donate with Crypto by Coinpayments and Coinbase
+</a>
+
 <img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
  
  
