@@ -12,10 +12,7 @@ Email: BlueSky@000714.xyz
 <a href="https://p.pstatp.com/origin/pgc-image/92ebda73c16248c39a193022889e9dac"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 </details>
 <details><summary>PAY or Donate TO ME</summary>
-<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
-<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
-
-<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe AliPay&WeChatPay&CreditCard&DebitCard&ApplePay&GooglePay</a>
  
  
 <a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/c84bf4b759ff4bd1b2057ff71bd710a4" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/958a8aea273d416f945cf79c8e7467ba" height=40 />PayPal CreditCard & DebitCard</a>
