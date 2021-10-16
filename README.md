@@ -17,7 +17,7 @@ Email: BlueSky@000714.xyz
  
 <a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/c84bf4b759ff4bd1b2057ff71bd710a4" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/958a8aea273d416f945cf79c8e7467ba" height=40 />PayPal CreditCard & DebitCard</a>
  
-<a href="https://www.patreon.com/bePatron?u=63198165""><img src="https://p0.meituan.net/dpgroup/a112a0898ba5d654c7e39d1a67f03166765.png" height=40 />Patron</a>
+<a href="https://www.patreon.com/bePatron?u=63198165"><img src="https://p0.meituan.net/dpgroup/a112a0898ba5d654c7e39d1a67f03166765.png" height=40 />Patron SUB With PayPal、CreditCard、DebitCard</a>
 
 <a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
 <img src="https://p.pstatp.com/origin/pgc-image/8af5556b37ed4deab157d70fd9739db7" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/670e45288dd24ac29b77b60509c0a09f" height=40 />Donate with Crypto by Coinpayments and Coinbase
