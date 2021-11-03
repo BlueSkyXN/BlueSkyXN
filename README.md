@@ -11,18 +11,24 @@ Email: BlueSky@000714.xyz
 <a href="https://t.me/BlueSkyXN_PM_bot"><img src="https://p.pstatp.com/origin/pgc-image/9cae1156265f40b489d69855e32a32df" height=40 /></a>
 <a href="https://p.pstatp.com/origin/pgc-image/92ebda73c16248c39a193022889e9dac"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
 </details>
-<details><summary>PAY TO ME</summary>
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /></a>
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /></a>
-
-<a href="https://pay.000714.xyz/"><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe CreditCard & DebitCard& ApplePay & GooglePay</a>
+<details><summary>PAY or Donate TO ME</summary>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe AliPay&WeChatPay&CreditCard&DebitCard&ApplePay&GooglePay</a>
  
+ 
+<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/c84bf4b759ff4bd1b2057ff71bd710a4" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/958a8aea273d416f945cf79c8e7467ba" height=40 />PayPal CreditCard & DebitCard</a>
+ 
+<a href="https://www.patreon.com/bePatron?u=63198165"><img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height=30 />Patron SUB With PayPal、CreditCard、DebitCard</a>
+
+<a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
+<img src="https://p.pstatp.com/origin/pgc-image/8af5556b37ed4deab157d70fd9739db7" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/670e45288dd24ac29b77b60509c0a09f" height=40 />Donate with Crypto by Coinpayments and Coinbase
+</a>
+
 <img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
  
  
 <a href="https://p.pstatp.com/origin/pgc-image/b0ea0cfd346348c3a6142bf0ae09c969"><img src="https://p.pstatp.com/origin/pgc-image/680e957a9bac488c8fa65c41cd64eedf" height=40 />GooglePayBalance ：blueskyxn</a>
  
-<img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN
+<a href="https://cash.app/$BlueSkyXN"><img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN</a>
  
 XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
  
