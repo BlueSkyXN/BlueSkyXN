@@ -12,7 +12,7 @@ Email: BlueSky@000714.xyz
 
 </details>
 <details><summary>PAY or Donate TO ME</summary>
-<a href="https://pay.000714.xyz/donate.html"><img src="https://p.pstatp.com/origin/pgc-image/3bab32fd6ace456cae5748a24958bc44" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/8c20140dacc540ef803ad7df5b565d6a" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/edfa09135e2b4b89a0dbf5d6ab3235ad" height=40 />Stripe AliPay&WeChatPay&CreditCard&DebitCard&ApplePay&GooglePay</a>
+<a href="https://pay.000714.xyz/donate.html"><img src="https://imglf3.lf127.net/img/ajl3ZDh0YkZqYlVrK3hQNmVGSkd4K2FUWGNpYkJsMzBiMUI1ZisvNU5DOD0.png" height=40 /><img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlh3aFloZEplaCtKV1JHbSs3eEZ4YkJmM0RlL0hCd0pCaz0.png" height=40 /><img src="https://imglf4.lf127.net/img/ajl3ZDh0YkZqYlhUOWI5eEduM24wQ0k0NlVTTjEwSE5zbzZnNGRkWmpFaz0.png" height=40 />Stripe AliPay&WeChatPay&CreditCard&DebitCard&ApplePay&GooglePay</a>
  
  
 <a href="https://pay.000714.xyz/donate.html"><img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlZKMXFiUHdZYk1Pbml2Qk8wK1RKREVBcVJxdk93YThBdz0.png" height=40 />PayPal CreditCard & DebitCard</a>
