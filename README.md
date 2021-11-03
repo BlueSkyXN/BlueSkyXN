@@ -23,12 +23,10 @@ Email: BlueSky@000714.xyz
 <img src="https://p.pstatp.com/origin/pgc-image/8af5556b37ed4deab157d70fd9739db7" height=40 /><img src="https://p.pstatp.com/origin/pgc-image/670e45288dd24ac29b77b60509c0a09f" height=40 />Donate with Crypto by Coinpayments and Coinbase
 </a>
 
-<img src="https://p.pstatp.com/origin/pgc-image/12dca4dbf4c9480196b360cb3a7e18e2" height=40 />ApplePayCash : bluesky@000714.xyz
+ApplePayCash : bluesky@000714.xyz
+GooglePayBalance ：blueskyxn
  
- 
-<a href="https://p.pstatp.com/origin/pgc-image/b0ea0cfd346348c3a6142bf0ae09c969"><img src="https://p.pstatp.com/origin/pgc-image/680e957a9bac488c8fa65c41cd64eedf" height=40 />GooglePayBalance ：blueskyxn</a>
- 
-<a href="https://cash.app/$BlueSkyXN"><img src="https://p.pstatp.com/origin/pgc-image/fd10a7eb31ce4456ac11639f6a969467" height=40 />Cash APP(By Square): $BlueSkyXN</a>
+<a href="https://cash.app/$BlueSkyXN"><img src="https://imglf4.lf127.net/img/ajl3ZDh0YkZqYldmdEdIWjVabDdUZEhkaGpTUHk2d0JZZVBHRSt2OE54MD0.png" height=40 />Cash APP(By Square): $BlueSkyXN</a>
  
 XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
  
