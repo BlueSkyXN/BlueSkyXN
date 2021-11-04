@@ -20,7 +20,7 @@ Email: BlueSky@000714.xyz
 <a href="https://www.patreon.com/bePatron?u=63198165"><img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height=30 />Patron SUB With PayPal、CreditCard、DebitCard</a>
 
 <a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
-<img src="https://p.pstatp.com/origin/pgc-image/670e45288dd24ac29b77b60509c0a09f" height=40 />Donate with Crypto by Coinpayments and Coinbase
+<img src="https://imglf3.lf127.net/img/UkpIdmxaVzZtZHh4V0crT3FBSmhLczJKcENua0NUeGUzTHFIWk8xaXQ4ND0.png" height=40 /><img src="https://imglf4.lf127.net/img/UkpIdmxaVzZtZHp5R2NUeEc1VVNGNWo3Zm85RUlUUXRidytSb3RnWlpRdz0.png" height=40 />Donate with Crypto by Coinpayments and Coinbase
 </a>
 
 ApplePayCash : bluesky@000714.xyz
