@@ -24,7 +24,7 @@ Email: BlueSky@000714.xyz
 </a>
 
 ApplePayCash : bluesky@000714.xyz
-GooglePayBalance ：blueskyxn
+<a href="https://inews.gtimg.com/newsapp_ls/0/14246503274/0.png">GooglePayBalance ：blueskyxn</a>
  
 <a href="https://cash.app/$BlueSkyXN"><img src="https://imglf4.lf127.net/img/ajl3ZDh0YkZqYldmdEdIWjVabDdUZEhkaGpTUHk2d0JZZVBHRSt2OE54MD0.png" height=40 />Cash APP(By Square): $BlueSkyXN</a>
  
