@@ -37,9 +37,9 @@ XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuh
 <table><tr><td><a href="https://000714.xyz">个人主页</a> |
 <a href="https://www.blueskyxn.com">Blog</a> |
 <a href="https://shop.blueskyxn.com">SHOP</a> |
-<a href="https://img.blueskyxn.com">公共图床</a> |
 <a href="https://status.blueskyxn.com">探针</a> |
 <a href="https://www.blueskyxn.com/202102/4142.html">网盘</a> |
+<a href="https://pay.skyit.uk/donate.html">捐赠和打赏</a> |
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
 
