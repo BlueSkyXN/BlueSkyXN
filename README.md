@@ -30,6 +30,7 @@ ApplePayCash : bluesky@000714.xyz
  
 XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
  
+USDT-TRC20: <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://p0.meituan.net/dpgroup/6615939a8481542b6876388695a19b6b3911.png" height=80 /></a>
 </details>
 
 
