@@ -1,5 +1,5 @@
 ### Hi 👋
-<a href="https://github.com/BlueSkyXN"><img src="https://ae01.alicdn.com/kf/U86be0ebc85004924a57b3f81c8091f51Y.jpg" height=120 /></a>
+<a href="https://github.com/BlueSkyXN"><img src="https://pic.rmb.bdstatic.com/bjh/35b3dfa8b69dc23197d7a18ddb13a84a.jpeg" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 
@@ -30,7 +30,7 @@ ApplePayCash : bluesky@000714.xyz
  
 XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
  
-USDT-TRC20: <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://p0.meituan.net/dpgroup/6615939a8481542b6876388695a19b6b3911.png" height=80 /></a>
+USDT-TRC20: <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height=80 /></a>
 </details>
 
 
