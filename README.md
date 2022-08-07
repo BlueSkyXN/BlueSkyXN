@@ -1,5 +1,5 @@
 ### Hi 👋
-<a href="https://github.com/BlueSkyXN"><img src="https://pic.rmb.bdstatic.com/bjh/35b3dfa8b69dc23197d7a18ddb13a84a.jpeg" height=120 /></a>
+<a href="https://github.com/BlueSkyXN"><img src="https://dingyue.ws.126.net/2022/0803/ffe77a0bj00rg18p1001pd000hs00hsp.jpg" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 
