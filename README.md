@@ -18,19 +18,10 @@ Email: BlueSky@000714.xyz
 <a href="https://pay.000714.xyz/donate.html"><img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlZKMXFiUHdZYk1Pbml2Qk8wK1RKREVBcVJxdk93YThBdz0.png" height=40 />PayPal CreditCard & DebitCard</a>
  
 <a href="https://www.patreon.com/bePatron?u=63198165"><img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height=30 />Patron SUB With PayPal、CreditCard、DebitCard</a>
+ 
+<a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height=80 /></a>
 
-<a class="donate-with-crypto" href="https://pay.000714.xyz/donate.html">
-<img src="https://imglf3.lf127.net/img/UkpIdmxaVzZtZHh4V0crT3FBSmhLczJKcENua0NUeGUzTHFIWk8xaXQ4ND0.png" height=40 /><img src="https://imglf4.lf127.net/img/UkpIdmxaVzZtZHp5R2NUeEc1VVNGNWo3Zm85RUlUUXRidytSb3RnWlpRdz0.png" height=40 />Donate with Crypto by Coinpayments and Coinbase
-</a>
-
-ApplePayCash : bluesky@000714.xyz
-<a href="https://inews.gtimg.com/newsapp_ls/0/14246503274/0.png">GooglePayBalance ：blueskyxn</a>
- 
-<a href="https://cash.app/$BlueSkyXN"><img src="https://imglf4.lf127.net/img/ajl3ZDh0YkZqYldmdEdIWjVabDdUZEhkaGpTUHk2d0JZZVBHRSt2OE54MD0.png" height=40 />Cash APP(By Square): $BlueSkyXN</a>
- 
-XMR：49c5wkbcbKVj2NFh1BEWW8er2wbQpuqvpHxjnZj9o9u9hpXPKKNdUWJUBoE3n7jYjpT81dLsuhUWkLmchaWPJ2zK7dLK14R
- 
-USDT-TRC20: <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height=80 /></a>
+<a class="donate-with-qr" href="https://paysky.pages.dev/" style="color:#0d2295" >QRPay (翼支付、数字人民币等） </a>
 </details>
 
 
