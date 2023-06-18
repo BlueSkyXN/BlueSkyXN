@@ -21,16 +21,13 @@ Email: BlueSky@000714.xyz
  
 <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height=80 /></a>
 
-<a class="donate-with-qr" href="https://paysky.pages.dev/" style="color:#0d2295" >QRPay (翼支付、数字人民币等） </a>
 </details>
 
 
 #### MY LINK
 <table><tr><td><a href="https://000714.xyz">个人主页</a> |
 <a href="https://www.blueskyxn.com">Blog</a> |
-<a href="https://shop.blueskyxn.com">SHOP</a> |
 <a href="https://status.blueskyxn.com">探针</a> |
-<a href="https://www.blueskyxn.com/202102/4142.html">网盘</a> |
 <a href="https://pay.skyit.uk/donate.html">捐赠和打赏</a> |
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
 <a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
@@ -43,8 +40,6 @@ Email: BlueSky@000714.xyz
 <a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a> 用于CentOS系统的多功能工具箱
 
 <a href="https://github.com/BlueSkyXN/CFIP">CFIP</a> CloudFlare IP 测速
-
-<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a> KIENG开源图床前端面板
 
 <a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a> 自动检测服务器故障并自动使用API修改并切换DNS解析
 
@@ -66,11 +61,12 @@ Email: BlueSky@000714.xyz
 
 <a href="https://github.com/BlueSkyXN/ScannerReport">ScannerReport</a> 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
   
-<a href="https://github.com/FZU-CS-BlueSkyXN/Logisim-FZU-CS">Logisim-FZU-CS</a>Logisim 系统综合实验
   
 <a href="https://github.com/BlueSkyXN/Dual-Stack-WARP">Dual-Stack-WARP</a>基于 Docker容器 的WARP 双栈出网
  
 <a href="https://github.com/BlueSkyXN/Yum-Git">Yum-Git</a> CentOS（YUM系列） 一键脚本：自动编译安装/更新 GIT软件包
+
+<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a> KIENG开源图床前端面板
 
 </details>
 
