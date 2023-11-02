@@ -1,5 +1,6 @@
 ### Hi 👋
 <a href="https://github.com/BlueSkyXN"><img src="https://raw.githubusercontent.com/BlueSkyXN/BlueSkyXN/main/pic/head/head05m.jpg" height=120 /></a>
+<a href="https://github.com/BlueSkyXN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=blueskyxn" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api?username=BlueSkyXN&show_icons=true&count_private=true&title_color=006400&text_color=000080&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 
