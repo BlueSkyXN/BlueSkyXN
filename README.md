@@ -5,22 +5,81 @@
 <a href="https://github.com/BlueSkyXN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSkyXN&title_color=006400&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=120 /></a>
 
 <details><summary>MY Contact information</summary>
-SMS（TEXT only) : +1 (760) 991-0564
  
-Email: BlueSky@000714.xyz
+Email: BlueSky 艾特 000714.xyz
  
-<a href="https://t.me/BlueSkyXN_PM_bot">TG</a>
+<a href="https://t.me/BlueSkyXN_PM_bot">TG</a> | <a href="https://bit.ly/LarkSKY">Lark</a>
 
 </details>
+
 <details><summary>PAY or Donate TO ME</summary>
-<a href="https://pay.000714.xyz/donate.html"><img src="https://p1.meituan.net/dpgroup/6377d33cfa5f17457099945531efe7a56306.png" height=40 /><img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height=40 /><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height=40 /><img src="https://p1.meituan.net/dpgroup/7f1872b2e64d710090b6300d24e8e7e026575.png" height=40 />Stripe AliPay&WeChatPay&CreditCard&DebitCard&ApplePay&GooglePay</a>
- 
- 
-<a href="https://pay.000714.xyz/donate.html"><img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlZKMXFiUHdZYk1Pbml2Qk8wK1RKREVBcVJxdk93YThBdz0.png" height=40 />PayPal CreditCard & DebitCard</a>
- 
-<a href="https://www.patreon.com/bePatron?u=63198165"><img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height=30 />Patron SUB With PayPal、CreditCard、DebitCard</a>
- 
-<a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295" ><img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height=80 /></a>
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://github.com/sponsors/blueskyxn">Official GitHub Sponsor(Card)</a></b>   <a href="https://github.com/sponsors/blueskyxn"><img src="https://img.shields.io/badge/-赞助-ff69b4?style=for-the-badge&logo=github"  height="30"  alt="赞助"/></a></td>
+    <td>
+      <a href="https://github.com/sponsors/blueskyxn">
+        <img src="https://p1.meituan.net/dpgroup/7f1872b2e64d710090b6300d24e8e7e026575.png" height="35" alt="CreditCard"/>
+     </a>
+    </td>
+  </tr>
+  <tr>
+     <td>
+         <b><a href="https://pay.000714.xyz/donate.html">Stripe(AliPay/WeChatPay/Card)</a></b>    <a href="https://pay.000714.xyz/donate.html"><img src="https://p1.meituan.net/dpgroup/6377d33cfa5f17457099945531efe7a56306.png" height="35" alt="Stripe"/></a></td>
+    <td>
+      <a href="https://pay.000714.xyz/donate.html">
+        <img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height="35" alt="AliPayWeChatPay"/><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height="35" alt="UnionPay"/><img src="https://p1.meituan.net/dpgroup/7f1872b2e64d710090b6300d24e8e7e026575.png" height="35" alt="CreditCard"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://pay.000714.xyz/donate.html"><b>PayPal(PayPal/Card)</b></a></td>
+    <td>
+      <a href="https://pay.000714.xyz/donate.html">
+        <img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlZKMXFiUHdZYk1Pbml2Qk8wK1RKREVBcVJxdk93YThBdz0.png" height="30" alt="PayPal"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.patreon.com/bePatron?u=63198165"><b>Patreon(Card/PayPal)</b></a></td>
+    <td>
+      <a href="https://www.patreon.com/bePatron?u=63198165">
+        <img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height="30" alt="Patreon"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295"><b>Donate with Tether USDT</b> </a></td>
+    <td>
+      <a class="donate-with-stripe" href="https://pay.skyit.uk/upay.html" style="color:#0d2295">
+        <img src="https://pic.rmb.bdstatic.com/bjh/15798b022ef0cee6d2320e12d3ef77d6.png" height="30" alt="Donate with Tether USDT"/>
+      </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+     <a href="https://space.bilibili.com/325232992">
+      <b>哔哩哔哩Bilibili（支付宝/微信/B币/电池）</b><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v29a0590c51db944bc8f15797e84b61d07.png" height="40" alt="哔哩哔哩"/></td>
+      </a>
+    <td>
+      <a href="https://space.bilibili.com/325232992">
+        <img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height="35" alt="AliPayWeChatPay"/><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height="35" alt="UnionPay"/>
+      </a>
+    </td>
+  </tr>
+ <tr>
+   <td>
+    <a href="https://afdian.net/a/BlueSkyXN">
+     <b>爱发电（支付宝/微信）</b><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v24990a425278349dc8729b1de44ba7818.png" height="25" alt="爱发电"/></td>
+     </a>
+   <td>
+     <a href="https://afdian.net/a/BlueSkyXN">
+       <img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height="35" alt="AliPayWeChatPay"/><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height="35" alt="UnionPay"/>
+     </a>
+   </td>
+ </tr>
+</table>
 
 </details>
 
@@ -31,53 +90,10 @@ Email: BlueSky@000714.xyz
 <a href="https://status.blueskyxn.com">探针</a> |
 <a href="https://pay.skyit.uk/donate.html">捐赠和打赏</a> |
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
-<a href="https://t.me/blueskyxnblog">TG频道</a></td></tr></table>
+<a href="https://t.me/blueskyxnblog">TG频道</a>
+</td></tr></table>
 
 ### MY WORK
-<details><summary>HOT REPO</summary>
-  
-<a href="https://github.com/BlueSkyXN/AdGuardHomeRules">AdGuardHomeRules</a> AdguardHome百万规则项目
-
-<a href="https://github.com/BlueSkyXN/SKY-BOX">SKY-BOX</a> 用于CentOS系统的多功能工具箱
-
-<a href="https://github.com/BlueSkyXN/CFIP">CFIP</a> CloudFlare IP 测速
-
-<a href="https://github.com/BlueSkyXN/DNS-AUTO-Switch">DNS-AUTO-Switch</a> 自动检测服务器故障并自动使用API修改并切换DNS解析
-
-<a href="https://github.com/BlueSkyXN/lovespeed">lovespeed</a> 服务器定时自动测速并推送结果的脚本
-  
-<a href="https://github.com/BlueSkyXN/TencentCloud-Order">TencentCloud-Order</a> 腾讯云产品-自定义参数购买一键单页
-
-</details>
-
-<details><summary>Recommend REPO</summary>
-  
-<a href="https://github.com/BlueSkyXN/ChangeSource">ChangeSource</a> 为LInux系统一键更换软件源的一键脚本和其他替换源/备用镜像的常用脚本
-
-<a href="https://github.com/BlueSkyXN/ip-to-img">ip-to-img</a> 动态生成包含IP等信息的状态图
-
-<a href="https://github.com/BlueSkyXN/Cloudflare-Custom-Pages">Cloudflare-Custom-Pages</a> 美观的Cloudflare提示页
-
-<a href="https://github.com/BlueSkyXN/RandomIMGAPI">RandomIMGAPI</a> 极简的动态随机图API
-
-<a href="https://github.com/BlueSkyXN/ScannerReport">ScannerReport</a> 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
-  
-  
-<a href="https://github.com/BlueSkyXN/Dual-Stack-WARP">Dual-Stack-WARP</a>基于 Docker容器 的WARP 双栈出网
- 
-<a href="https://github.com/BlueSkyXN/Yum-Git">Yum-Git</a> CentOS（YUM系列） 一键脚本：自动编译安装/更新 GIT软件包
-
-<a href="https://github.com/BlueSkyXN/KIENG-FigureBed">KIENG-FigureBed</a> KIENG开源图床前端面板
-
-</details>
-
-<details><summary>Other REPO</summary>
- 
-<a href="https://github.com/BlueSkyXN/Route-trace">Route-trace</a> Linux 回程路由追踪检测智能一键脚本
-  
-<a href="https://github.com/BlueSkyXN/GitHub-FigureBed">Route-trace</a> 基于Github和Jsdelivr的自建图床
-  
-
-</details>
+懒得写了
 
 
