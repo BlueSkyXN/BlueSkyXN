@@ -17,7 +17,7 @@ Email: BlueSky 艾特 000714.xyz
 <table>
   <tr>
     <td>
-      <b><a href="https://github.com/sponsors/blueskyxn">Official GitHub Sponsor(Card)</a></b>   <a href="https://github.com/sponsors/blueskyxn"><img src="https://img.shields.io/badge/-赞助-ff69b4?style=for-the-badge&logo=github"  height="30"  alt="赞助"/></a></td>
+      <b><a href="https://github.com/sponsors/blueskyxn">Official GitHub Sponsor (Card)</a></b>   <a href="https://github.com/sponsors/blueskyxn"><img src="https://img.shields.io/badge/-赞助-ff69b4?style=for-the-badge&logo=github"  height="30"  alt="赞助"/></a></td>
     <td>
       <a href="https://github.com/sponsors/blueskyxn">
         <img src="https://p1.meituan.net/dpgroup/7f1872b2e64d710090b6300d24e8e7e026575.png" height="35" alt="CreditCard"/>
@@ -26,7 +26,7 @@ Email: BlueSky 艾特 000714.xyz
   </tr>
   <tr>
      <td>
-         <b><a href="https://pay.000714.xyz/donate.html">Stripe(AliPay/WeChatPay/Card)</a></b>    <a href="https://pay.000714.xyz/donate.html"><img src="https://p1.meituan.net/dpgroup/6377d33cfa5f17457099945531efe7a56306.png" height="35" alt="Stripe"/></a></td>
+         <b><a href="https://pay.000714.xyz/donate.html">Stripe (AliPay/WeChatPay/Card)</a></b>    <a href="https://pay.000714.xyz/donate.html"><img src="https://p1.meituan.net/dpgroup/6377d33cfa5f17457099945531efe7a56306.png" height="35" alt="Stripe"/></a></td>
     <td>
       <a href="https://pay.000714.xyz/donate.html">
         <img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height="35" alt="AliPayWeChatPay"/><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height="35" alt="UnionPay"/><img src="https://p1.meituan.net/dpgroup/7f1872b2e64d710090b6300d24e8e7e026575.png" height="35" alt="CreditCard"/>
@@ -34,7 +34,7 @@ Email: BlueSky 艾特 000714.xyz
     </td>
   </tr>
   <tr>
-    <td><a href="https://pay.000714.xyz/donate.html"><b>PayPal(PayPal/Card)</b></a></td>
+    <td><a href="https://pay.000714.xyz/donate.html"><b>PayPal (PayPal/Card)</b></a></td>
     <td>
       <a href="https://pay.000714.xyz/donate.html">
         <img src="https://imglf6.lf127.net/img/ajl3ZDh0YkZqYlZKMXFiUHdZYk1Pbml2Qk8wK1RKREVBcVJxdk93YThBdz0.png" height="30" alt="PayPal"/>
@@ -42,7 +42,7 @@ Email: BlueSky 艾特 000714.xyz
     </td>
   </tr>
   <tr>
-    <td><a href="https://www.patreon.com/bePatron?u=63198165"><b>Patreon(Card/PayPal)</b></a></td>
+    <td><a href="https://www.patreon.com/bePatron?u=63198165"><b>Patreon (Card/PayPal)</b></a></td>
     <td>
       <a href="https://www.patreon.com/bePatron?u=63198165">
         <img src="https://p1.meituan.net/dpgroup/706dbe53f5639bcdcc8b8c95c37957bd1883.png" height="30" alt="Patreon"/>
@@ -60,7 +60,7 @@ Email: BlueSky 艾特 000714.xyz
    <tr>
     <td>
      <a href="https://space.bilibili.com/325232992">
-      <b>哔哩哔哩Bilibili（支付宝/微信/B币/电池）</b><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v29a0590c51db944bc8f15797e84b61d07.png" height="40" alt="哔哩哔哩"/></td>
+      <b>哔哩哔哩Bilibili（支付宝/微信/B币/电池）</b></td>
       </a>
     <td>
       <a href="https://space.bilibili.com/325232992">
@@ -70,11 +70,11 @@ Email: BlueSky 艾特 000714.xyz
   </tr>
  <tr>
    <td>
-    <a href="https://afdian.net/a/BlueSkyXN">
-     <b>爱发电（支付宝/微信）</b><img src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v24990a425278349dc8729b1de44ba7818.png" height="25" alt="爱发电"/></td>
+    <a href="https://afdian.com/a/BlueSkyXN">
+     <b>爱发电（支付宝/微信）</b</td>
      </a>
    <td>
-     <a href="https://afdian.net/a/BlueSkyXN">
+     <a href="https://afdian.com/a/BlueSkyXN">
        <img src="https://p1.meituan.net/dpgroup/b2644f4cf0722fe1df0c96dc65d6192972325.png" height="35" alt="AliPayWeChatPay"/><img src="https://p1.meituan.net/dpgroup/6674a01046420f98a8343bf1572077f716088.png" height="35" alt="UnionPay"/>
      </a>
    </td>
@@ -92,8 +92,3 @@ Email: BlueSky 艾特 000714.xyz
 <a href="https://t.me/BlueSkyXN_PM_bot">TG私聊BOT</a> |
 <a href="https://t.me/blueskyxnblog">TG频道</a>
 </td></tr></table>
-
-### MY WORK
-懒得写了
-
-
